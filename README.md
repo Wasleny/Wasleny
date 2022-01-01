@@ -1,4 +1,4 @@
-## Hi, :wave: I am Wasleny
+## Hi, :wave: I'm Wasleny
 
 - Atualmente desenvolvedora full stack
 

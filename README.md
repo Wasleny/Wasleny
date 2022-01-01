@@ -1,4 +1,4 @@
-## Hi, 👋 I am Wasleny
+## Hi, :wave: I am Wasleny
 
 - Atualmente desenvolvedora full stack
 

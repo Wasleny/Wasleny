@@ -15,5 +15,5 @@ Desde o final de 2020 venho trabalho em um projeto de acesso privado na empresa 
 
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasleny&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasleny&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasleny&layout=compact&theme=radical)

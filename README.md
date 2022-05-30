@@ -2,10 +2,6 @@
 
 - Atualmente desenvolvedora full stack
 
-Me informei no curso técnico de informática do CEFET-MG.
-
-Desde o final de 2020 venho trabalho em um projeto de acesso privado na empresa JA Alimentação, na área de desenvolvimento de sistemas web.
-
 [![Linkedin Badge](https://img.shields.io/badge/-wasleny_maria_pimenta-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wasleny-maria-pimenta-0b727a22a/)](https://www.linkedin.com/in/wasleny-maria-pimenta-0b727a22a/)
 [![Gmail Badge](https://img.shields.io/badge/waslenymp@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:waslenymp@gmail.com)](mailto:waslenymp@gmail.com)
 

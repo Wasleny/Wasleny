@@ -27,7 +27,7 @@
 &nbsp;
 ## :eyes: Contacts
 <div>
-<a href = "mailto:waslenymp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:waslenymp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wasleny-maria-pimenta-0b727a22a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/waslenymaria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
@@ -46,7 +46,7 @@
 
 &nbsp;
 ## :sparkles: Github Stats
-![GitHub stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=wasleny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=wasleny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasleny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasleny&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 

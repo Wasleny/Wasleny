@@ -46,9 +46,9 @@
 
 &nbsp;
 ## :sparkles: Github Stats
-![stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=wasleny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasleny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasleny&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=Wasleny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Wasleny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasleny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasleny&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=Wasleny)
+![](https://komarev.com/ghpvc/?username=Wasleny&color=96C8A2&label=)

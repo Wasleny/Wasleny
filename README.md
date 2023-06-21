@@ -46,6 +46,9 @@
 
 &nbsp;
 ## :sparkles: Github Stats
+** Most of my commits are in private repositories, so the `github-readme-stats.vercel.app` doesn't get all my commits and the `github-readme-stats-rongronggg9.vercel.app` does.
+<br>
+<br>
 ![stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=Wasleny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Wasleny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasleny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasleny&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)

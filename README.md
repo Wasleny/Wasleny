@@ -1,25 +1,25 @@
 # Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> I'm Wasleny Pimenta
 
 ## :woman: About Me...
-:computer: Currently working as a Backend Web Developer at Grupo Tesseract
+:computer: I'm currently working as a Backend Web Developer at Grupo Tesseract.
 
-:book: Currently studying Bachelor's degree in Information Systems at CEFET-MG
+:book: I'm currently studying Bachelor's degree in Information Systems at CEFET-MG.
 
 :mortar_board: IT Technician by CEFET-MG
 
-:computer: I have been working as a Web Developer since December, 2020
+:computer: I have been working as a Web Developer since December 2020.
 
-:city_sunset: I'm Brazilian and I'm living in Minas Gerais - Brazil
+:city_sunset: I'm Brazilian, and I'm living in Minas Gerais - Brazil.
 
-:books: I love books and I really can talk about books for days
+:books: I love books, and I really can talk about them for days.
 
-:movie_camera: I enjoy watching movies and series, but that doesn't necessarily mean I have a good watched list.
+:movie_camera: I like to watch movies and series, but that doesn't mean I have a watchlist of good movies.
 
-:notes: I enjoy listening music, but also that doesn't meat I have an amazing playlist
+:notes: I enjoy listening to music, but that doesn't mean I have an incredible playlist.
 
-:rocket: I really like new challenges and learning new things.
+:rocket: I like new challenges and learning new things.
 
-:coffee: I like coffee but I can live without it and I know it doesn't make sense for a programmer
+:coffee: I like coffee, but I can live without it, and I know it doesn't make sense for a programmer.
 
 &nbsp;
 
@@ -30,7 +30,7 @@
 
 :mortar_board: Técnica em Informática pelo CEFET-MG
 
-:computer: Trabalhando na área de Desenvolvimento Web desde dezembro, 2020
+:computer: Trabalhando na área de Desenvolvimento Web desde dezembro de 2020
 
 :city_sunset: Sou brasileira e moro em MG - BR
 
@@ -65,6 +65,8 @@
 &nbsp;
 ## :sparkles: Github Stats
 ** Most of my commits are in private repositories, so the `github-readme-stats.vercel.app` doesn't get all my commits and the `github-readme-stats-rongronggg9.vercel.app` does.
+
+** A maioria dos meus commits são em repositórios privados, por algum motivo o `github-readme-stats.vercel.app` não contabiliza todos eles e o `github-readme-stats-rongronggg9.vercel.app` contabiliza.
 <br>
 <br>
 ![stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=Wasleny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)

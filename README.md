@@ -9,9 +9,7 @@
 
 :computer: I have been working as a Web Developer since December, 2020
 
-&nbsp;
-
-:city_sunset: I'm living in Minas Gerais, Brazil
+:city_sunset: I'm Brazilian and I'm living in Minas Gerais - Brazil
 
 :books: I love books and I really can talk about books for days
 
@@ -23,6 +21,26 @@
 
 :coffee: I like coffee but I can live without it and I know it doesn't make sense for a programmer
 
+&nbsp;
+
+## :woman: Sobre mim...
+:computer: Atualmente trabalhando como Backend Web Developer at Grupo Tesseract
+
+:book:  Atualmente cursando Bacharelado em Sistemas de Informação - CEFET-MG
+
+:mortar_board: Técnica em Informática pelo CEFET-MG
+
+:computer: Trabalhando na área de Desenvolvimento Web desde dezembro, 2020
+
+:city_sunset: Sou brasileira e moro em MG - BR
+
+:books: Sou fascinada por livros e poderia falar sobre eles o tempo todo
+
+:movie_camera: Gosto de filmes e séries, apesar de ter épocas
+
+:notes: Música é vida
+
+:rocket: Gosto de novos desafios e oportunidades de aprender coisas novas
 
 &nbsp;
 ## :eyes: Contacts

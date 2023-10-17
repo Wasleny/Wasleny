@@ -64,13 +64,4 @@
 
 
 &nbsp;
-## :sparkles: Github Stats
-<br>
-<p>
-  <img align="left" alt="Wasleny's Github Stats" src="https://github-readme-stats-wasleny.vercel.app/api?username=Wasleny&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img align="left" alt="Wasleny's Top Languages" src="https://github-readme-stats-wasleny.vercel.app/api/top-langs/?username=Wasleny&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact"/>
-</p>
-
-
 ![](https://komarev.com/ghpvc/?username=Wasleny&color=96C8A2&label=1)

@@ -1,8 +1,6 @@
 # Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> I'm Wasleny Pimenta
 
 ## :woman: About Me...
-:computer: I'm currently working as a Backend Web Developer at Grupo Tesseract.
-
 :book: I'm currently studying Bachelor's degree in Information Systems at CEFET-MG.
 
 :mortar_board: IT Technician by CEFET-MG
@@ -24,8 +22,6 @@
 &nbsp;
 
 ## :woman: Sobre mim...
-:computer: Atualmente trabalhando como Backend Web Developer at Grupo Tesseract
-
 :book:  Atualmente cursando Bacharelado em Sistemas de Informação - CEFET-MG
 
 :mortar_board: Técnica em Informática pelo CEFET-MG
